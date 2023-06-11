@@ -8,3 +8,4 @@ to explore different facets of this powerful framework.
 
 - [protobuf](./protobuf/README.md) - main features available in proto files.
 - [rpc](./rpc/README.md) - all types of RPC available in gRPC.
+- [spring-integration](./spring-integration/README.md) - example of using Spring Boot + gRPC.
