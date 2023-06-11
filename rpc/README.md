@@ -22,4 +22,3 @@ Predefined grpc error codes are available by
 
 - Blocking Stub: block current thread until all responses processed
 - Stub: Allow process all responses async
-- Future Stub: 
